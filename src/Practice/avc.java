@@ -18,8 +18,7 @@ public class avc {
 		 WebElement a = driver.findElement(By.xpath("//span[text()='HP Chromebook MT8183 Mediatek 11.…']"));
 		 String aa = a.getText();
 		 
-		 WebElement b = driver.findElement(By.xpath("//span[text()='20,990']"));
-		 String bb = b.getText();
+		 
 		 
 		 
 		 
